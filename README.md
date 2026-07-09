@@ -1,30 +1,44 @@
 # Hi there, I'm Zixuan Li 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_HKUST-BDT_'27_(Incoming)-003865?style=flat-square&logo=hong-kong-university-of-science-and-technology&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_Tencent_WeChat-Research_Intern-07C160?style=flat-square&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/📝_COLM_2026-First_Author-0969da?style=flat-square" />
-</p>
-
 <!-- 
-  ELEGANT PROFILE HEADER
-  To use your own photo, upload your square picture (e.g., profile.jpg)
-  to this repository and replace "profile.jpg" below.
+  ELEGANT TWO-COLUMN HEADER 
+  This table layout creates a professional, scientist-style homepage.
+  Ensure profile.jpg and CV_Zixuan Li.pdf are in the root of your repository.
 -->
-<p align="center">
-  <img src="profile.jpg" alt="Zixuan Li's Profile" width="180" height="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</p>
-
-I am an incoming Master's student in **Big Data Technology** at **The Hong Kong University of Science and Technology (HKUST)**, and a graduate of **Jilin University** (B.Eng. in CS, Top 13%). Currently, I am a Research Intern & Algorithm Engineer at **Tencent WeChat Headquarters (E-commerce Governance Team)**. 
-
-My work thrives at the intersection of **Large Language Models (LLMs)**, **Agent Systems Infrastructure**, and **Hardware-Software Co-Design for Deep Learning**.
-
----
-
-## 🔥 Research Interests
-*   **Large Language Models (LLMs):** Parameter-efficient fine-tuning (PEFT/LoRA), active learning, and data-centric efficiency.
-*   **Agentic Execution Systems:** Multi-turn tool integration, high-concurrency/low-latency workflows, and topological scaling.
-*   **AI Architecture & HPC:** Near-Memory Processing (NMP), trace-driven hardware-software co-simulation, and sparse attention acceleration.
+<table border="0" width="100%">
+  <tr>
+    <!-- Left Column: Large Full-Body Photo & CV Button -->
+    <td align="center" valign="top" width="35%">
+      <a href="https://github.com/Lanoxia/Lanoxia/blob/main/CV_Zixuan%20Li.pdf" target="_blank">
+        <img src="profile.jpg" alt="Zixuan Li's Full Body Profile" width="240" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/Lanoxia/Lanoxia/blob/main/CV_Zixuan%20Li.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/📄_View_My_CV_/_Resume-0d1117?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" style="border-radius: 4px;" />
+      </a>
+    </td>
+    <!-- Right Column: Quick Bio & Badges -->
+    <td valign="top" width="65%" style="padding-left: 20px;">
+      <p align="left">
+        <img src="https://img.shields.io/badge/🎓_HKUST-BDT_'27_(Incoming)-003865?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/🤖_Tencent_WeChat-Research_Intern-07C160?style=flat-square&logo=wechat&logoColor=white" />
+        <img src="https://img.shields.io/badge/📝_COLM_2026-First_Author-0969da?style=flat-square" />
+      </p>
+      <p>
+        I am an incoming Master's student in <b>Big Data Technology</b> at <b>The Hong Kong University of Science and Technology (HKUST)</b>, and a graduate of <b>Jilin University</b> (B.Eng. in CS, Top 13%). Currently, I am working as a Research Intern & Algorithm Engineer at <b>Tencent WeChat Headquarters</b>.
+      </p>
+      <p>
+        My work thrives at the intersection of <b>Large Language Models (LLMs)</b>, <b>Agent Systems Infrastructure</b>, and <b>Hardware-Software Co-Design for Deep Learning</b>.
+      </p>
+      <p>
+        <b>🔥 Research Focus:</b><br />
+        • <b>LLMs:</b> Parameter-efficient fine-tuning (PEFT/LoRA), active learning, and data-centric efficiency.<br />
+        • <b>Agent Infrastructure:</b> Multi-turn tool integration, high-concurrency workflows, and topological scaling.<br />
+        • <b>AI Architecture & HPC:</b> Near-Memory Processing (NMP) and hardware-software co-simulation.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,12 +87,11 @@ My work thrives at the intersection of **Large Language Models (LLMs)**, **Agent
 ## 📊 GitHub Stats & Open Source Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanoxia&show_icons=true&theme=nord&count_private=true" alt="Zixuan Li's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lanoxia&show_icons=true&theme=nord&count_private=true" alt="Zixuan's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanoxia&layout=compact&theme=nord" alt="Top Langs" width="48%" />
 </p>
 
 ---
 
 ## ✉️ Contact & Connect
-*   **Email:** [lizx2122@mails.jlu.edu.cn](mailto:lizx2122@mails.jlu.edu.cn)
-*   **Academic Plan:** Preparing for Fall 2027 Ph.D. Applications in LLM efficiency and agent systems.
+*   **Email:** [lizx2122@mails.jlu.edu.cn](mailto:lizx2122@mails.jlu.edu.cn) & [minkalee0715@gmail.com](mailto:minkalee0715@gmail.com)
