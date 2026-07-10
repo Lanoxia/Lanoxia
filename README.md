@@ -100,4 +100,3 @@
   </a>
 </p>
 
-*   **Academic Plan:** Actively preparing for Fall 2027 Ph.D. positions in LLM efficiency and agent computing architectures.
