@@ -90,7 +90,7 @@
 
 <p align="left">
   <a href="mailto:zixuan.li@connect.ust.hk">
-    <img src="https://img.shields.io/badge/Email-zixuan.li@connexr.ust.hk-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-zixuan.li@connect.ust.hk-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:minkalee0715@gmail.com">
     <img src="https://img.shields.io/badge/Email-minkalee0715@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
