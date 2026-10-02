@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/COLM_2026-First_Author-0969da?style=flat-square" />
       </p>
       <p style="font-size: 11pt; line-height: 1.6;">
-        I am an incoming Master's student in <b>Big Data Technology</b> at <b>The Hong Kong University of Science and Technology (HKUST)</b>, and a graduate of <b>Jilin University</b> (B.Eng. in CS, Top 13%). Currently, I am a Research Intern & Algorithm Engineer at <b>Tencent WeChat Headquarters</b>.
+        I am a Master's student in <b>Big Data Technology</b> at <b>The Hong Kong University of Science and Technology (HKUST)</b>, and a graduate of <b>Jilin University</b> (B.Eng. in CS, Top 13%). 
       </p>
       <p style="font-size: 11pt; line-height: 1.6;">
         My work thrives at the intersection of <b>Large Language Models (LLMs)</b>, <b>Agent Systems Infrastructure</b>, and <b>Hardware-Software Co-Design for Deep Learning</b>.
@@ -64,7 +64,7 @@
 ## Industry Experience
 
 ### Tencent WeChat Headquarters (WeChat Agent Research)
-*Research Intern (E-commerce Governance Team) | 05/2026 - Present*
+*Research Intern (E-commerce Governance Team) | 05/2026 - 09/2026
 *   **Algorithmic Optimization for Multi-Turn Tool Integration:** Formulated an in-context tool composition mechanism within hierarchical skill abstractions, accelerating end-to-end response velocity by **2.0x** (20s $\rightarrow$ 10s).
 *   **Topological Design of Agentic Execution Systems:** Conceptualized a hybrid architecture integrating heuristic routing, stateful workflows, and autonomous agentic fallbacks; achieved a state-of-the-art first-token latency of **5-6s** under high-concurrency settings.
 
