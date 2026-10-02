@@ -89,7 +89,7 @@
 ## Contact & Connect
 
 <p align="left">
-  <a href="mailto:lizx2122@mails.jlu.edu.cn">
+  <a href="mailto:zixuan.li@connect.ust.hk">
     <img src="https://img.shields.io/badge/Email-lizx2122@mails.jlu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:minkalee0715@gmail.com">
